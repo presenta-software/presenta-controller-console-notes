@@ -6,7 +6,7 @@ This controller adds the speaker notes capability in a [PRESENTA Lib](https://gi
 
 ## Installation
 
-Please read the installation istructions for official plugins [here](https://lib.presenta.cc/extend/#install-an-official-plugin) using this unique identifier: `controller-console-notes
+Please read the installation istructions for official plugins [here](https://lib.presenta.cc/extend/#install-an-official-plugin) using this unique identifier: `controller-console-notes`
 
 ## Usage
 
